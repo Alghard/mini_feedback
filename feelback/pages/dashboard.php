@@ -13,5 +13,10 @@
             <h1>FeelBack</h1>
             <p class="subtitle">Le questionnaire de satisfaction</p>
         </header>
+
+        <a href="index.php"><button class="back-button">REVENIR SUR LA PAGE D'ACCUEIL</button></a>
+
+        <h2>Tableau de bord</h2>
+        <p>Cette page regroupe des statistiques moyennes sur l'ensemble des réponses données</p>
 </body>
 </html>
