@@ -1,0 +1,96 @@
+/* Style pour le body */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+/* Style pour le header */
+header {
+    padding: 20px;
+}
+
+.logo {
+    width: 80px;
+}
+
+h1 {
+    font-weight: normal;
+    margin-top: 10px;
+}
+
+.subtitle {
+    color: #666;
+}
+
+/* Bouton pour revenir à la page d'accueil */
+.back-button {
+    background-color: #666;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin: 20px;
+    font-size: 14px;
+}
+
+/* Style pour le formulaire */
+.feedback-form {
+    width: 300px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.feedback-form h2 {
+    font-size: 18px;
+}
+
+.feedback-form p {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+/* Style pour les options de notation */
+.rating {
+    display: flex;
+    gap: 5px;
+    margin-bottom: 15px;
+}
+
+.rating label {
+    font-size: 14px;
+}
+
+/* Bouton Envoyer */
+.submit-button {
+    background-color: #0000FF;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    margin-top: 20px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+/* Bouton Créer une commande */
+.create-order-button {
+    background-color: #0056ff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 0.9em;
+    cursor: pointer;
+}
+
+.create-order-button:hover {
+    background-color: #0041cc;
+}
+
+/* Style pour le footer */
+footer {
+    background-color: #ddd;
+    padding: 10px;
+    margin-top: 40px;
+    font-size: 14px;
+}
