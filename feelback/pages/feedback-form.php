@@ -4,19 +4,18 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>FeelBack - Questionnaire de Satisfaction</title>
-    <link rel="stylesheet" href="../css/style.css"> <!-- Lien mis à jour pour le fichier CSS -->
+    <link rel="stylesheet" href="../css/style.css">
 </head>
 
 <body>
     <!-- Header -->
     <header>
-        <img src="logo.png" alt="Logo FeelBack" class="logo"> <!-- Remplace "logo.png" par le chemin de ton logo -->
+        <img src="../assets/logo.png" alt="Logo FeelBack" class="logo">
         <h1>FeelBack</h1>
         <p class="subtitle">Le questionnaire de satisfaction</p>
     </header>
 
-    <!-- Button Retour -->
-    <button class="back-button">REVENIR SUR LA PAGE D'ACCUEIL</button>
+    <a href="index.php"><button class="back-button">REVENIR SUR LA PAGE D'ACCUEIL</button></a>
 
     <!-- Formulaire d'avis -->
     <section class="feedback-form">
@@ -50,7 +49,6 @@
                 <label><input type="radio" name="comportement_livreur" value="5"> 5</label>
             </div>
 
-            <!-- Bouton Envoyer -->
             <button type="submit" class="submit-button">ENVOYER</button>
         </form>
     </section>
