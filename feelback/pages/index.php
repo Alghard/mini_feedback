@@ -21,7 +21,7 @@ include '../utils/utils.php';
         <h1>FeelBack</h1>
         <p class="subtitle">Le questionnaire de satisfaction</p>
     </header>
-
+<div class="h-screen">
     <!-- Bouton Consulter le Tableau de Bord -->
     <a href="pages/dashboard.php"><button class="back-button">CONSULTER LE TABLEAU DE BORD</button></a>
 
@@ -31,8 +31,7 @@ include '../utils/utils.php';
         <p>Cette application vous permet d'évaluer la livraison de votre commande</p>
         <a href="pages/feedback-form.php"><button class="create-order-button">CRÉER UNE COMMANDE FICTIVE ET RÉPONDRE AU QUESTIONNAIRE DE SATISFACTION</button></a>
     </section>
-    
-    <!-- Footer -->
+</div>
     <footer>
         <p>2024 | FeelBack</p>
     </footer>
