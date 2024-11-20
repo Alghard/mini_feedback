@@ -13,7 +13,7 @@
         <p class="subtitle">Le questionnaire de satisfaction</p>
     </header>
 
-    <a href="index.html">
+    <a href="index.php">
         <button class="back-button">REVENIR SUR LA PAGE D'ACCUEIL</button>
     </a>
 

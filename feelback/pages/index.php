@@ -23,13 +23,13 @@ include '../utils/utils.php';
     </header>
 <div class="h-screen">
     <!-- Bouton Consulter le Tableau de Bord -->
-    <a href="pages/dashboard.php"><button class="back-button">CONSULTER LE TABLEAU DE BORD</button></a>
+    <a href="dashboard.php"><button class="back-button">CONSULTER LE TABLEAU DE BORD</button></a>
 
     <!-- Section d'introduction -->
     <section class="intro-section">
         <h2>Bienvenue sur l'application FeelBack</h2>
         <p>Cette application vous permet d'évaluer la livraison de votre commande</p>
-        <a href="pages/feedback-form.php"><button class="create-order-button">CRÉER UNE COMMANDE FICTIVE ET RÉPONDRE AU QUESTIONNAIRE DE SATISFACTION</button></a>
+        <a href="feedback-form.php"><button class="create-order-button">CRÉER UNE COMMANDE FICTIVE ET RÉPONDRE AU QUESTIONNAIRE DE SATISFACTION</button></a>
     </section>
 </div>
     <footer>
