@@ -1,3 +1,10 @@
+<?php 
+
+include '../utils/utils.php';
+
+?>
+
+
 <!DOCTYPE html>
 <html lang="fr">
     <head>
@@ -28,6 +35,5 @@
     <footer>
         <p>2024 | FeelBack</p>
     </footer>
-
 </body>
 </html>
