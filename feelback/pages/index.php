@@ -1,3 +1,10 @@
+<?php 
+
+include '../utils/utils.php';
+
+?>
+
+
 <!DOCTYPE html>
 <html lang="fr">
     <head>
@@ -24,11 +31,10 @@
         <p>Cette application vous permet d'évaluer la livraison de votre commande</p>
         <a href="pages/feedback-form.php"><button class="create-order-button">CRÉER UNE COMMANDE FICTIVE ET RÉPONDRE AU QUESTIONNAIRE DE SATISFACTION</button></a>
     </section>
-
+    
     <!-- Footer -->
     <footer>
         <p>2024 | FeelBack</p>
     </footer>
-
 </body>
 </html>
